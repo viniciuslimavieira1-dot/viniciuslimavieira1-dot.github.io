@@ -156,3 +156,7 @@ a{
 .rodape a{
     text-decoration: none;
 }
+
+code, pre{
+    font-family: consolas, "courier new", monospace;
+}
